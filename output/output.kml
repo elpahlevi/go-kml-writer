@@ -1,0 +1,15 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <Point>
+      <coordinates>113.97395,-2.99994,0</coordinates>
+    </Point>
+    <ExtendedData>
+      <Data name="acqdatetimetz">
+        <value>2023-10-18 09:09:00</value>
+      </Data>
+      <Data name="confidence">
+        <value>80</value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+</kml>
